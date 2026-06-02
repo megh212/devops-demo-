@@ -1,0 +1,22 @@
+{
+  "name": "devopsdemo",
+  "version": "1.0.0",
+  "description": "\"I am adding this as megh branch\"",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megh212/devops-demo-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/megh212/devops-demo-/issues"
+  },
+  "homepage": "https://github.com/megh212/devops-demo-#readme"
+}
